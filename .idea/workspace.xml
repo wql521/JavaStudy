@@ -4,69 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d2b65b3-3dfb-4da6-b3ef-992c6f2bba76" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayDemo/ArrayDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayDemo/src/ArrayDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayDemo/src/ArrayDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayDemo/src/ArrayDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayDemo/src/ArrayTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayDemo/src/ArrayTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayDemo/src/ArrayTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game/Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game/src/Game1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game/src/Game2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodDemo/MethodDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodDemo/src/ArgsDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodDemo/src/ArgsDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodDemo/src/MethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodDemo/src/MethodDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodDemo/src/MethodDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodDemo/src/MethodDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodDemo/src/MethodTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodDemo/src/MethodTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodDemo/src/printDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/ValueDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/ScannerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/Test11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/Test9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/ValueDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/ValueDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/VariableDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/Variabletest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/addDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/addDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/breakDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/continueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/forDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/testDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/whileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValueDemo/src/whileDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/helloworld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloworld/src/helloworld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastudy.iml" afterDir="false" />
-    </list>
+    <list default="true" id="2d2b65b3-3dfb-4da6-b3ef-992c6f2bba76" name="变更" comment="2022年12月30日" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -177,12 +116,35 @@
       <workItem from="1672140123118" duration="2970000" />
       <workItem from="1672213154872" duration="9638000" />
       <workItem from="1672309688063" duration="12888000" />
-      <workItem from="1672388262104" duration="18853000" />
+      <workItem from="1672388262104" duration="19159000" />
     </task>
+    <task id="LOCAL-00001" summary="2022年12月30日">
+      <created>1672408686303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672408686303</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022年12月30日" />
+    <option name="LAST_COMMIT_MESSAGE" value="2022年12月30日" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

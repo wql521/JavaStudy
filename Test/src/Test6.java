@@ -32,6 +32,6 @@ public class Test6 {
         for (int i = 0;i < arr.length;i++){
             arr[i] = arr[i] - 5;
         }
-        return arr;
+        return arr;//返回
     }
 }
