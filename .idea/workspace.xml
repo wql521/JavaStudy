@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d2b65b3-3dfb-4da6-b3ef-992c6f2bba76" name="变更" comment="2022年12月30日" />
+    <list default="true" id="2d2b65b3-3dfb-4da6-b3ef-992c6f2bba76" name="变更" comment="2022年12月30日">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/src/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/Test6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/src/Test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/Test7.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +28,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="071f27a6-cc17-413f-8eba-bcfd64e0d597" />
+        <option name="url" value="https://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@github.com/wql521/Java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,14 +71,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Test6">
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test2" />
-      <module name="Test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.Test7">
     <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test3" />
       <module name="Test" />
@@ -90,13 +100,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test7" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Test7" />
         <item itemvalue="应用程序.Test6" />
         <item itemvalue="应用程序.Test5" />
         <item itemvalue="应用程序.Test4" />
         <item itemvalue="应用程序.Test3" />
-        <item itemvalue="应用程序.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -117,6 +134,9 @@
       <workItem from="1672213154872" duration="9638000" />
       <workItem from="1672309688063" duration="12888000" />
       <workItem from="1672388262104" duration="19199000" />
+      <workItem from="1672409056810" duration="76000" />
+      <workItem from="1672415006239" duration="885000" />
+      <workItem from="1672470182169" duration="5161000" />
     </task>
     <task id="LOCAL-00001" summary="2022年12月30日">
       <created>1672408686303</created>
@@ -132,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672408910707</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2022年12月30日">
+      <created>1672409113819</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672409113819</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +170,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
