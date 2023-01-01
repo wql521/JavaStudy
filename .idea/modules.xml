@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/ValueDemo/ValueDemo.iml" filepath="$PROJECT_DIR$/ValueDemo/ValueDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/javastudy.iml" filepath="$PROJECT_DIR$/javastudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game/wordGame/wordGame.iml" filepath="$PROJECT_DIR$/Game/wordGame/wordGame.iml" />
     </modules>
   </component>
 </project>
