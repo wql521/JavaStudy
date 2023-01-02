@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d2b65b3-3dfb-4da6-b3ef-992c6f2bba76" name="变更" comment="2022年12月30日">
-      <change afterPath="$PROJECT_DIR$/Game/wordGame/src/GameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game/wordGame/src/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDemo/Cars/Cars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDemo/Cars/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDemo/Cars/src/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDemo/Girlfriends/src/GirlFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDemo/Girlfriends/src/GirlFriendtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDemo/Goods/Goods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDemo/Goods/src/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDemo/Goods/src/GoodsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDemo/Students/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayDemo/Students/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ValueDemo/src/Test13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -32,14 +41,13 @@
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="071f27a6-cc17-413f-8eba-bcfd64e0d597" />
-        <option name="url" value="https://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@github.com/wql521/Java.git" />
+        <option name="url" value="https://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@github.com/wql521/Java.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -67,55 +75,55 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.GameTest">
-    <configuration name="GameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GameTest" />
-      <module name="wordGame" />
+  <component name="RunManager" selected="应用程序.Test">
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CarTest" />
+      <module name="Cars" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test5" />
-      <module name="Test" />
+    <configuration name="GirlFriendtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GirlFriendtest" />
+      <module name="Girlfriends" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test6" />
-      <module name="Test" />
+    <configuration name="GoodsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoodsTest" />
+      <module name="Goods" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test7" />
-      <module name="Test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Students" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test8" />
-      <module name="Test" />
+    <configuration name="Test13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test13" />
+      <module name="ValueDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.GameTest" />
-        <item itemvalue="应用程序.Test8" />
-        <item itemvalue="应用程序.Test7" />
-        <item itemvalue="应用程序.Test6" />
-        <item itemvalue="应用程序.Test5" />
+        <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.GirlFriendtest" />
+        <item itemvalue="应用程序.CarTest" />
+        <item itemvalue="应用程序.Test13" />
+        <item itemvalue="应用程序.GoodsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +150,8 @@
       <workItem from="1672571453534" duration="8000" />
       <workItem from="1672571471376" duration="2000" />
       <workItem from="1672571493438" duration="6858000" />
+      <workItem from="1672645190365" duration="7626000" />
+      <workItem from="1672653114105" duration="5101000" />
     </task>
     <task id="LOCAL-00001" summary="2022年12月30日">
       <created>1672408686303</created>
