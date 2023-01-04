@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d2b65b3-3dfb-4da6-b3ef-992c6f2bba76" name="变更" comment="2022年12月30日">
-      <change afterPath="$PROJECT_DIR$/API/String.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/ScannerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/StringBuilderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/StringBuilderDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/StringDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/StringDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/StringDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/StringDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/StringDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/StringDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/StringJoinerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login/src/StringDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="2d2b65b3-3dfb-4da6-b3ef-992c6f2bba76" name="变更" comment="2023年1月3日">
+      <change afterPath="$PROJECT_DIR$/Test/src/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/src/Test9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/Test8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/Test8.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +74,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.ArgsDemo2">
+  <component name="RunManager" selected="应用程序.Test11">
     <configuration name="ArgsDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArgsDemo2" />
       <module name="MethodDemo" />
@@ -91,41 +82,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayDemo2" />
-      <module name="ArrayDemo" />
+    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test10" />
+      <module name="Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringBuilderDemo" />
-      <module name="String" />
+    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test11" />
+      <module name="Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringBuilderDemo1" />
-      <module name="String" />
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test8" />
+      <module name="Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringJoinerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringJoinerDemo" />
-      <module name="String" />
+    <configuration name="Test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test9" />
+      <module name="Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Test11" />
+        <item itemvalue="应用程序.Test10" />
+        <item itemvalue="应用程序.Test9" />
+        <item itemvalue="应用程序.Test8" />
         <item itemvalue="应用程序.ArgsDemo2" />
-        <item itemvalue="应用程序.ArrayDemo2" />
-        <item itemvalue="应用程序.StringJoinerDemo" />
-        <item itemvalue="应用程序.StringBuilderDemo1" />
-        <item itemvalue="应用程序.StringBuilderDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +147,8 @@
       <workItem from="1672653114105" duration="5101000" />
       <workItem from="1672670250672" duration="10000" />
       <workItem from="1672731464039" duration="11514000" />
-      <workItem from="1672744235773" duration="1710000" />
+      <workItem from="1672744235773" duration="2831000" />
+      <workItem from="1672816807757" duration="10720000" />
     </task>
     <task id="LOCAL-00001" summary="2022年12月30日">
       <created>1672408686303</created>
@@ -179,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672409113819</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2023年1月3日">
+      <created>1672747221940</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672747221940</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +203,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2022年12月30日" />
-    <option name="LAST_COMMIT_MESSAGE" value="2022年12月30日" />
+    <MESSAGE value="2023年1月3日" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023年1月3日" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
