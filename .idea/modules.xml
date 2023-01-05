@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Login/Login.iml" filepath="$PROJECT_DIR$/Login/Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodDemo/MethodDemo.iml" filepath="$PROJECT_DIR$/MethodDemo/MethodDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/API/String.iml" filepath="$PROJECT_DIR$/API/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentManage/StudentManage.iml" filepath="$PROJECT_DIR$/StudentManage/StudentManage.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayDemo/Students/Students.iml" filepath="$PROJECT_DIR$/ArrayDemo/Students/Students.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValueDemo/ValueDemo.iml" filepath="$PROJECT_DIR$/ValueDemo/ValueDemo.iml" />

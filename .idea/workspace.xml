@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d2b65b3-3dfb-4da6-b3ef-992c6f2bba76" name="变更" comment="2023年1月4日">
-      <change afterPath="$PROJECT_DIR$/ArrayListDemo/ArrayListDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListDemo/src/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListDemo/src/ArrayListDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListDemo/src/ArrayListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListDemo/src/ArrayListDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListDemo/src/ArrayListDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListDemo/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayListDemo/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentManage/StudentManage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentManage/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentManage/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentManage/src/StudentSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentManage/src/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -74,49 +79,49 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.ArrayListDemo2">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListDemo" />
+  <component name="RunManager" selected="应用程序.Tes">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="StudentManage" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListDemo4" />
       <module name="ArrayListDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListDemo1" />
-      <module name="ArrayListDemo" />
+    <configuration name="StudentSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentSystem" />
+      <module name="StudentManage" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListDemo2" />
-      <module name="ArrayListDemo" />
+    <configuration name="Tes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tes" />
+      <module name="StudentManage" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test10" />
-      <module name="Test" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test11" />
-      <module name="Test" />
+    <configuration name="jagsa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jagsa" />
+      <module name="StudentManage" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.ArrayListDemo2" />
-        <item itemvalue="应用程序.ArrayListDemo1" />
-        <item itemvalue="应用程序.ArrayListDemo" />
-        <item itemvalue="应用程序.Test11" />
-        <item itemvalue="应用程序.Test10" />
+        <item itemvalue="应用程序.Tes" />
+        <item itemvalue="应用程序.jagsa" />
+        <item itemvalue="应用程序.App" />
+        <item itemvalue="应用程序.StudentSystem" />
+        <item itemvalue="应用程序.ArrayListDemo4" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +155,8 @@
       <workItem from="1672744235773" duration="2831000" />
       <workItem from="1672816807757" duration="13356000" />
       <workItem from="1672837667314" duration="2344000" />
+      <workItem from="1672903477079" duration="23109000" />
+      <workItem from="1672927056461" duration="1063000" />
     </task>
     <task id="LOCAL-00001" summary="2022年12月30日">
       <created>1672408686303</created>
