@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d2b65b3-3dfb-4da6-b3ef-992c6f2bba76" name="变更" comment="2023年1月4日">
-      <change afterPath="$PROJECT_DIR$/ArrayListDemo/src/ArrayListDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListDemo/src/ArrayListDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListDemo/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArrayListDemo/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentManage/StudentManage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentManage/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentManage/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentManage/src/StudentSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentManage/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyStatic/ArrayUtil/ArrayUtil.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyStatic/ArrayUtil/src/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyStatic/ArrayUtil/src/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyStatic/MyStatic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/test/src/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/test/src/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/test/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/Test1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,49 +78,49 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Tes">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="StudentManage" />
+  <component name="RunManager" selected="应用程序.test2 (3)">
+    <configuration name="test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListDemo4" />
-      <module name="ArrayListDemo" />
+    <configuration name="test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudentSystem" />
-      <module name="StudentManage" />
+    <configuration name="test2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tes" />
-      <module name="StudentManage" />
+    <configuration name="test2 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jagsa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jagsa" />
-      <module name="StudentManage" />
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Tes" />
-        <item itemvalue="应用程序.jagsa" />
-        <item itemvalue="应用程序.App" />
-        <item itemvalue="应用程序.StudentSystem" />
-        <item itemvalue="应用程序.ArrayListDemo4" />
+        <item itemvalue="应用程序.test2 (3)" />
+        <item itemvalue="应用程序.test2 (2)" />
+        <item itemvalue="应用程序.test2 (1)" />
+        <item itemvalue="应用程序.test2" />
+        <item itemvalue="应用程序.test1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +156,7 @@
       <workItem from="1672837667314" duration="2344000" />
       <workItem from="1672903477079" duration="23109000" />
       <workItem from="1672927056461" duration="1063000" />
+      <workItem from="1672988593544" duration="11451000" />
     </task>
     <task id="LOCAL-00001" summary="2022年12月30日">
       <created>1672408686303</created>
