@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32da5357-586f-4d7b-803a-30c77c064734" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayDemo/ArrayDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayDemo/Cars/Cars.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayDemo/Girlfriends/Girlfriends.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayDemo/Goods/Goods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayDemo/Students/Students.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayListDemo/ArrayListDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game/Game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game/wordGame/wordGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface/Interface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface/Test2/Test2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interface/Test3/Test3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login/Login.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MathAPI/MathAPI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MethodDemo/MethodDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyStatic/MyStatic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjectAPI/ObjectAPI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RuntimeAPI/RuntimeAPI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentManage/StudentManage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SystemAPI/SystemAPI.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValueDemo/ValueDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld/helloworld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerd/Tes1/Tes1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/innerd/innerd.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2KAlgKorzbTm2A2wjaigNV40f9N" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/wangqianlong/Desktop/IntelliJ IDEA/javastudy/java学习",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="32da5357-586f-4d7b-803a-30c77c064734" name="变更" comment="" />
+      <created>1673425377707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673425377707</updated>
+      <workItem from="1673425378831" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

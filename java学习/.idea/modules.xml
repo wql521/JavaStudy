@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API/API.iml" filepath="$PROJECT_DIR$/API/API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayDemo/ArrayDemo.iml" filepath="$PROJECT_DIR$/ArrayDemo/ArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListDemo/ArrayListDemo.iml" filepath="$PROJECT_DIR$/ArrayListDemo/ArrayListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayDemo/Cars/Cars.iml" filepath="$PROJECT_DIR$/ArrayDemo/Cars/Cars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game/Game.iml" filepath="$PROJECT_DIR$/Game/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayDemo/Girlfriends/Girlfriends.iml" filepath="$PROJECT_DIR$/ArrayDemo/Girlfriends/Girlfriends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayDemo/Goods/Goods.iml" filepath="$PROJECT_DIR$/ArrayDemo/Goods/Goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Login/Login.iml" filepath="$PROJECT_DIR$/Login/Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathAPI/MathAPI.iml" filepath="$PROJECT_DIR$/MathAPI/MathAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodDemo/MethodDemo.iml" filepath="$PROJECT_DIR$/MethodDemo/MethodDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyStatic/MyStatic.iml" filepath="$PROJECT_DIR$/MyStatic/MyStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectAPI/ObjectAPI.iml" filepath="$PROJECT_DIR$/ObjectAPI/ObjectAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuntimeAPI/RuntimeAPI.iml" filepath="$PROJECT_DIR$/RuntimeAPI/RuntimeAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentManage/StudentManage.iml" filepath="$PROJECT_DIR$/StudentManage/StudentManage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayDemo/Students/Students.iml" filepath="$PROJECT_DIR$/ArrayDemo/Students/Students.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SystemAPI/SystemAPI.iml" filepath="$PROJECT_DIR$/SystemAPI/SystemAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/innerd/Tes1/Tes1.iml" filepath="$PROJECT_DIR$/innerd/Tes1/Tes1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Test2/Test2.iml" filepath="$PROJECT_DIR$/Interface/Test2/Test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Test3/Test3.iml" filepath="$PROJECT_DIR$/Interface/Test3/Test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValueDemo/ValueDemo.iml" filepath="$PROJECT_DIR$/ValueDemo/ValueDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/innerd/innerd.iml" filepath="$PROJECT_DIR$/innerd/innerd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java学习.iml" filepath="$PROJECT_DIR$/.idea/java学习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/test/test.iml" filepath="$PROJECT_DIR$/Test/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game/wordGame/wordGame.iml" filepath="$PROJECT_DIR$/Game/wordGame/wordGame.iml" />
+    </modules>
+  </component>
+</project>

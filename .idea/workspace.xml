@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d2b65b3-3dfb-4da6-b3ef-992c6f2bba76" name="变更" comment="2023年1月4日">
-      <change afterPath="$PROJECT_DIR$/MathAPI/MathAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MathAPI/src/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MathAPI/src/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MathAPI/src/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectAPI/ObjectAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectAPI/src/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RuntimeAPI/RuntimeAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RuntimeAPI/src/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SystemAPI/SystemAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SystemAPI/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,25 +52,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "19",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="应用程序.test1 (2)">
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test" />
@@ -165,6 +155,8 @@
       <workItem from="1673160165681" duration="10193000" />
       <workItem from="1673359992512" duration="4179000" />
       <workItem from="1673414016956" duration="8524000" />
+      <workItem from="1673425301921" duration="10000" />
+      <workItem from="1673425321961" duration="56000" />
     </task>
     <task id="LOCAL-00001" summary="2022年12月30日">
       <created>1672408686303</created>
