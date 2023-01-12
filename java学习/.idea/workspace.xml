@@ -1,44 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="32da5357-586f-4d7b-803a-30c77c064734" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayDemo/ArrayDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayDemo/Cars/Cars.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayDemo/Girlfriends/Girlfriends.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayDemo/Goods/Goods.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayDemo/Students/Students.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayListDemo/ArrayListDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game/Game.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game/wordGame/wordGame.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interface/Interface.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interface/Test2/Test2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interface/Test3/Test3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/Login.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathAPI/MathAPI.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MethodDemo/MethodDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyStatic/MyStatic.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectAPI/ObjectAPI.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RuntimeAPI/RuntimeAPI.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentManage/StudentManage.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SystemAPI/SystemAPI.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/test/test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ValueDemo/ValueDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld/helloworld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerd/Tes1/Tes1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/innerd/innerd.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigIntegerAPI/BigIntegerAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BigIntegerAPI/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex/Regex.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex/src/RegeDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex/src/RegexDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex/src/RegexDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex/src/RegexDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex/src/RegexDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex/src/RegexDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex/src/RegexDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex/src/RegexDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex/src/RegexTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex/src/RegexTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex/src/RegexTest8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TimeAPI/TimeAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TimeAPI/src/SimpleDateFormatDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TimeAPI/src/SimpleDateFormatTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TimeAPI/src/TimeDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TimeAPI/src/TimeTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2KAlgKorzbTm2A2wjaigNV40f9N" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,14 +58,68 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "any.rule.ignoreSwayRod": "true",
+    "jdk.selected.JAVA_MODULE": "19",
     "last_opened_file_path": "/Users/wangqianlong/Desktop/IntelliJ IDEA/javastudy/java学习",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="应用程序.SimpleDateFormatTest1">
+    <configuration name="RegexDemo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RegexDemo8" />
+      <module name="Regex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleDateFormatDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleDateFormatDemo1" />
+      <module name="TimeAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleDateFormatTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleDateFormatTest1" />
+      <module name="TimeAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeDemo1" />
+      <module name="TimeAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeTest1" />
+      <module name="TimeAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.SimpleDateFormatTest1" />
+        <item itemvalue="应用程序.SimpleDateFormatDemo1" />
+        <item itemvalue="应用程序.TimeTest1" />
+        <item itemvalue="应用程序.TimeDemo1" />
+        <item itemvalue="应用程序.RegexDemo8" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -64,6 +129,8 @@
       <option name="presentableId" value="Default" />
       <updated>1673425377707</updated>
       <workItem from="1673425378831" duration="40000" />
+      <workItem from="1673426169891" duration="9007000" />
+      <workItem from="1673504739779" duration="15117000" />
     </task>
     <servers />
   </component>
