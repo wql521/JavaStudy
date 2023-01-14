@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Game/Game.iml" filepath="$PROJECT_DIR$/Game/Game.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayDemo/Girlfriends/Girlfriends.iml" filepath="$PROJECT_DIR$/ArrayDemo/Girlfriends/Girlfriends.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayDemo/Goods/Goods.iml" filepath="$PROJECT_DIR$/ArrayDemo/Goods/Goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegerDemo/IntegerDemo.iml" filepath="$PROJECT_DIR$/IntegerDemo/IntegerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Login/Login.iml" filepath="$PROJECT_DIR$/Login/Login.iml" />
       <module fileurl="file://$PROJECT_DIR$/MathAPI/MathAPI.iml" filepath="$PROJECT_DIR$/MathAPI/MathAPI.iml" />
@@ -20,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Regex/Regex.iml" filepath="$PROJECT_DIR$/Regex/Regex.iml" />
       <module fileurl="file://$PROJECT_DIR$/RuntimeAPI/RuntimeAPI.iml" filepath="$PROJECT_DIR$/RuntimeAPI/RuntimeAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchCode/SearchCode.iml" filepath="$PROJECT_DIR$/SearchCode/SearchCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentManage/StudentManage.iml" filepath="$PROJECT_DIR$/StudentManage/StudentManage.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayDemo/Students/Students.iml" filepath="$PROJECT_DIR$/ArrayDemo/Students/Students.iml" />
       <module fileurl="file://$PROJECT_DIR$/SystemAPI/SystemAPI.iml" filepath="$PROJECT_DIR$/SystemAPI/SystemAPI.iml" />
