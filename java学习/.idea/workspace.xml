@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32da5357-586f-4d7b-803a-30c77c064734" name="变更" comment="2023年1月12日">
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntegerDemo/IntegerDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntegerDemo/src/IntegerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntegerDemo/src/IntegerDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntegerDemo/src/IntegerDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchCode/SearchCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchCode/src/BasicSearchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchCode/src/BinarySearchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchCode/src/BlockSearchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchCode/src/FeiBoSearchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/Test12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/src/Test13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeAPI/src/ChronoUnitDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeAPI/src/DateTimeFormatterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeAPI/src/DurationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeAPI/src/InstantDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeAPI/src/LocalDateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeAPI/src/LocalDateTimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeAPI/src/LocalTimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeAPI/src/PeriodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeAPI/src/ZoneDateTimeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimeAPI/src/ZoneIdDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortDemo/SortDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortDemo/src/BubbleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortDemo/src/InsertDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortDemo/src/QuickSortDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortDemo/src/SelectionDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -60,41 +42,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;any.rule.ignoreSwayRod&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/wangqianlong/Desktop/IntelliJ IDEA/javastudy/java学习&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "any.rule.ignoreSwayRod": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "/Users/wangqianlong/Desktop/IntelliJ IDEA/javastudy/java学习",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="应用程序.BlockSearchDemo (1)">
-    <configuration name="BasicSearchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicSearchDemo" />
-      <module name="SearchCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinarySearchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearchDemo" />
-      <module name="SearchCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="应用程序.QuickSortDemo">
     <configuration name="BlockSearchDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlockSearchDemo" />
       <module name="SearchCode" />
@@ -102,27 +70,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BlockSearchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BlockSearchDemo" />
-      <module name="SearchCode" />
+    <configuration name="BubbleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleDemo" />
+      <module name="SortDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test13" />
-      <module name="Test" />
+    <configuration name="InsertDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertDemo" />
+      <module name="SortDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSortDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuickSortDemo" />
+      <module name="SortDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionDemo" />
+      <module name="SortDemo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.QuickSortDemo" />
+        <item itemvalue="应用程序.InsertDemo" />
+        <item itemvalue="应用程序.SelectionDemo" />
+        <item itemvalue="应用程序.BubbleDemo" />
         <item itemvalue="应用程序.BlockSearchDemo (1)" />
-        <item itemvalue="应用程序.BlockSearchDemo" />
-        <item itemvalue="应用程序.BinarySearchDemo" />
-        <item itemvalue="应用程序.BasicSearchDemo" />
-        <item itemvalue="应用程序.Test13" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +126,8 @@
       <workItem from="1673618620533" duration="320000" />
       <workItem from="1673618949955" duration="868000" />
       <workItem from="1673620920315" duration="1394000" />
-      <workItem from="1673679110898" duration="2949000" />
+      <workItem from="1673679110898" duration="6177000" />
+      <workItem from="1673695028945" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="2023年1月12日">
       <created>1673527146546</created>
