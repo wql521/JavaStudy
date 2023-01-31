@@ -4,219 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d2b65b3-3dfb-4da6-b3ef-992c6f2bba76" name="变更" comment="2023年1月4日">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a17eb74a-b81a-4492-8e0b-12d7f39b1c69" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cczu/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Kotlin Class" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="SET_USER_NAME_GLOBALLY" value="false" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="071f27a6-cc17-413f-8eba-bcfd64e0d597" />
-        <option name="url" value="https://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@github.com/wql521/Java.git" />
-      </UrlAndAccount>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2JRz43QS4JYUBwhws882zfHIGP7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2L5n2KCgrVFcQbqE4eNQrQ5N1h8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Sybase ASE",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="应用程序.test1 (2)">
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="SystemAPI" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test1" />
-      <module name="RuntimeAPI" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test1" />
-      <module name="ObjectAPI" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test2" />
-      <module name="MathAPI" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test3" />
-      <module name="MathAPI" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.test1 (2)" />
-        <item itemvalue="应用程序.test1 (1)" />
-        <item itemvalue="应用程序.test" />
-        <item itemvalue="应用程序.test3" />
-        <item itemvalue="应用程序.test2" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="2d2b65b3-3dfb-4da6-b3ef-992c6f2bba76" name="变更" comment="" />
-      <created>1672055489018</created>
+      <changelist id="a17eb74a-b81a-4492-8e0b-12d7f39b1c69" name="变更" comment="" />
+      <created>1675169602466</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1672055489018</updated>
-      <workItem from="1672055490076" duration="2284000" />
-      <workItem from="1672060585114" duration="3681000" />
-      <workItem from="1672120270014" duration="10000" />
-      <workItem from="1672120287079" duration="13736000" />
-      <workItem from="1672136682557" duration="2670000" />
-      <workItem from="1672140123118" duration="2970000" />
-      <workItem from="1672213154872" duration="9638000" />
-      <workItem from="1672309688063" duration="12888000" />
-      <workItem from="1672388262104" duration="19199000" />
-      <workItem from="1672409056810" duration="76000" />
-      <workItem from="1672415006239" duration="885000" />
-      <workItem from="1672470182169" duration="12447000" />
-      <workItem from="1672571453534" duration="8000" />
-      <workItem from="1672571471376" duration="2000" />
-      <workItem from="1672571493438" duration="6858000" />
-      <workItem from="1672645190365" duration="7626000" />
-      <workItem from="1672653114105" duration="5101000" />
-      <workItem from="1672670250672" duration="10000" />
-      <workItem from="1672731464039" duration="11514000" />
-      <workItem from="1672744235773" duration="2831000" />
-      <workItem from="1672816807757" duration="13356000" />
-      <workItem from="1672837667314" duration="2344000" />
-      <workItem from="1672903477079" duration="23109000" />
-      <workItem from="1672927056461" duration="1063000" />
-      <workItem from="1672988593544" duration="11451000" />
-      <workItem from="1673011777900" duration="7000" />
-      <workItem from="1673064068556" duration="19238000" />
-      <workItem from="1673160165681" duration="10193000" />
-      <workItem from="1673359992512" duration="4179000" />
-      <workItem from="1673414016956" duration="8524000" />
-      <workItem from="1673425301921" duration="10000" />
-      <workItem from="1673425321961" duration="56000" />
+      <updated>1675169602466</updated>
+      <workItem from="1675169603551" duration="1233000" />
     </task>
-    <task id="LOCAL-00001" summary="2022年12月30日">
-      <created>1672408686303</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1672408686303</updated>
-    </task>
-    <task id="LOCAL-00002" summary="2022年12月30日">
-      <created>1672408910707</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1672408910707</updated>
-    </task>
-    <task id="LOCAL-00003" summary="2022年12月30日">
-      <created>1672409113819</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1672409113819</updated>
-    </task>
-    <task id="LOCAL-00004" summary="2023年1月3日">
-      <created>1672747221940</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1672747221940</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="false" />
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="2022年12月30日" />
-    <MESSAGE value="2023年1月3日" />
-    <MESSAGE value="2023年1月4日" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023年1月4日" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
