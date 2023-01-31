@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a17eb74a-b81a-4492-8e0b-12d7f39b1c69" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cczu/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="a17eb74a-b81a-4492-8e0b-12d7f39b1c69" name="变更" comment="1.31" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +24,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2L5n2KCgrVFcQbqE4eNQrQ5N1h8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,11 +54,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675169602466</updated>
-      <workItem from="1675169603551" duration="1233000" />
+      <workItem from="1675169603551" duration="1576000" />
     </task>
+    <task id="LOCAL-00001" summary="1.31">
+      <created>1675171132162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675171132162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.31" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.31" />
   </component>
 </project>
